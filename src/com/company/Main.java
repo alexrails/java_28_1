@@ -14,7 +14,7 @@ public class Main {
 			System.out.println(nums[k]);
 			k++;
 		}
-		//Thirth task
+		//Third task
 		int f1 = 1;
 		int f2 = 1;
 		int f3;
